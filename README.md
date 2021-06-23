@@ -1,1 +1,1 @@
-# nhrocks
+nhrocks project - Laravel version
